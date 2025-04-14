@@ -75,7 +75,6 @@
 .nav a {
   font-style: italic;
   font-size: 16px;
-  /* color: #ffffff; */
   text-decoration: none;
 }
 
@@ -185,7 +184,7 @@
   }
 
   .header__nav-container {
-    width: 100%;
+    width: 90%;
     flex-direction: row;
     justify-content: space-between;
     padding: 20px;
